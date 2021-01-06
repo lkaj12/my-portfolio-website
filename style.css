@@ -1,0 +1,111 @@
+ .box-shadow{
+     box-shadow: 5px 5px 20px grey;
+     border-radius: 70px;
+     height: 60%;
+ }
+ 
+ 
+ 
+ 
+ .menu-bar{
+     text-align: right;
+ }
+ .menu-bar ul{
+     display: inline-flex;
+     list-style: none;
+     color: orange;
+ }
+ .menu-bar ul li{
+     width: 100px;
+     margin: 2px;
+     padding:2px;
+     
+ }
+ 
+ 
+ 
+ section{
+     height:500px;
+     padding-bottom: 100px;
+ }
+ 
+ 
+ body{
+    font-family: 'Lato', sans-serif;
+  
+ }
+ 
+ 
+ h1{
+     font-size: 50px;
+ }
+ .name-highlight{
+     color: orange;
+ } 
+ .half-width{
+     width: 40%;
+     float: left;
+     margin-left: 5%;
+     padding-left: 2%;
+ }
+ .half-width img{
+     width: 100%;
+ }
+
+  
+
+.orange-highlight{
+    color: orange;
+}
+.green highlight{
+    color: green;
+}
+ .new-width{
+     width: 220px;
+     margin-left: 6%;
+     padding-left: 9%;
+     float: left;
+     
+     
+ }
+.new-width img{
+    width:100%;
+}
+footer{
+    text-align: center;
+}
+ .inquiery{
+     width:800px;
+     height:800px;
+     background: url(images/Group_33094_1.png);
+     background-size: 700px;
+     background-repeat: no-repeat;
+     margin-left: 340px;
+      
+      
+      
+      
+ }
+.inquiery{
+    text-align: center;
+}
+  
+ 
+      
+ .inquiery h2{
+     text-align: left;
+     color: white;
+ }
+ .text{
+     text-align: center;
+ }
+ .text h2{
+     text-align:center;
+     color: white;
+ }
+.adjust-image{
+
+    margin-left: 255px;
+    height:400px;
+     
+}
